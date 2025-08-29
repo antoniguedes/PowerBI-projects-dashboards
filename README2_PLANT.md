@@ -1,3 +1,9 @@
+1. LOAD DATA & CLEAN DATA in PowerQuery 
+   Dates Columns to Date Format, not Text
+   Remove Duplicates
+   Build the initial Data Model
+   Rename FACT Table and DIMensional Tables
+
 AFTER CLEANING THE DATA
 Insert a New Table for Date Dimension
 
