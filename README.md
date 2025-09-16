@@ -39,7 +39,7 @@ This initial dashboard provides a comprehensive two-page exploration of the data
 * 🔘 Buttons & Bookmarks for Page Navigation
 * ➡️ Drill-Through Functionality
 
-[➡️ **View Full Project Details (README)**](../README3.md)
+[➡️ **View Full Project Details (README)**](../README3_DATAJOBS.md)
 
 
 ## 🚀 How to Use
