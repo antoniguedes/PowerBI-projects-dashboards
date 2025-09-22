@@ -15,11 +15,11 @@ The BI projects currently in the folder are:
 
 ## 📁 Projects - Featured Dashboards
 
-| Project Name                           | Domain           | Description                                        | Demo/Screenshots                                                                                             |
-|----------------------------------------|------------------|----------------------------------------------------|------------------                                                                                            |
-|Bike Products Sales                     | Retail           | Sales analytics for 2023 - 2024                    | ![Financial Sample MS - Biking Products Sales dashboard](https://github.com/user-attachments/assets/2dec9dec-26dc-4c4c-bdf8-595567828263)|
-|Social Media Impact on Students         | Social Media     | Students' Social Media Addiction  2013 - 2014      | ![Social Media Addiction - how to filter a visual with Top 3 param](https://github.com/user-attachments/assets/dcec33fa-265e-483e-8499-f490b6b9db62) |                  |      |    |                        | ![Social Media Addiction - DAX measure](https://github.com/user-attachments/assets/b49bd6f6-1fe6-44af-a7c7-ac0a40193ab2)|
-| 2024 Data Jobs Dashboard               | Recrutement Data | Dashboard diving into data jobs market for 2024    | ![Data Jobs 2024 Dashboard p1](https://github.com/user-attachments/assets/131b7dbf-3876-45a5-b9be-3c794fabf83e) ![Data Jobs 2024 Dashboard p2](https://github.com/user-attachments/assets/d9f0d252-359a-4121-aeea-4807209f87ed)  |
+| Project Name - Domain                 | Description - Link to the project                  | Screenshots                                                                                            |
+|---------------------------------------|----------------------------------------------------|------------------                                                                                            |
+|Bike Products Sales Analysis - Retail  | Sales analytics for 2023 - 2024 [Link](                   | ![Financial sample data - Biking products sales dashboard](https://github.com/user-attachments/assets/2dec9dec-26dc-4c4c-bdf8-595567828263)|
+|Social Media Impact on Students - Social Media | Students' Social Media Addiction  2013 - 2014      | ![Social Media Addiction - how to filter a visual with Top 3 param](https://github.com/user-attachments/assets/dcec33fa-265e-483e-8499-f490b6b9db62) |                  |       |                        | ![Social Media Addiction - DAX measure](https://github.com/user-attachments/assets/b49bd6f6-1fe6-44af-a7c7-ac0a40193ab2)|
+| 2024 Data Jobs Market Dashboard - HR  | Dashboard diving into data jobs market for 2024    | ![Data Jobs 2024 Dashboard p1](https://github.com/user-attachments/assets/131b7dbf-3876-45a5-b9be-3c794fabf83e) ![Data Jobs 2024 Dashboard p2](https://github.com/user-attachments/assets/d9f0d252-359a-4121-aeea-4807209f87ed)  |
 
 *Example of DAX functions used to create custom Measures*
 ![Social Media Addiction - DAX measure](https://github.com/user-attachments/assets/d95c1b5e-47e5-47a1-8183-7253959f23e5)
