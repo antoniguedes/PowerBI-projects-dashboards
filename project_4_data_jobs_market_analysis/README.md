@@ -1,4 +1,4 @@
-# Data Jobs Dashboard w/ Power BI
+# Data Jobs & Skills Dashboard in Power BI
 
 
 
